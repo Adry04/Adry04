@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Adry04
 - 👀 I’m interested in learning new programming languages and other stuff
-- 🌱 I’m currently learning spring and python
+- 🌱 I’m currently learning Spring Boot (Java framework), Vue.js and Python
 - 💞️ I’m looking to collaborate on some new programs
-- 📫 How to reach me: adrianodevita8@gmail.com
+- 📫 Mail me: adrianodevita8@gmail.com
 
 <!---
 Adry04/Adry04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
