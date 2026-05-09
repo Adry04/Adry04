@@ -1,8 +1,8 @@
 
 - 👋 Hi, I’m Adry04
-- 👀 I’m interested in learning new programming languages and other CS and AI related things
-- 🖥️ I’m currently learning Computer Science stuff at the University of Salerno
-- 📈 I'm looking to graduate as soon as possible and at the same time collaborate on some new projects 🙂
+- 👀 I’m interested in learning new programming languages and other CS, CyberSecurity and AI related things
+- 🖥️ I graduated in Computer Science at the University of Salerno, Italy
+- 📈 I'm looking to collaborate on some new projects 🙂
 - 📫 Mail me: adrianodevita8@gmail.com
 
 <!---
